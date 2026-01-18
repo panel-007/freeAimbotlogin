@@ -1,10 +1,12 @@
-[
-  {
-    "user": "admin",
-    "pass": "12"
-  },
-  {
-    "user": "Tarek",
-    "pass": "Exe"
-  }
-]
+{
+  "users": [
+    {
+      "user": "admin",
+      "pass": "12"
+    },
+    {
+      "user": "Tarek",
+      "pass": "Exe"
+    }
+  ]
+}
