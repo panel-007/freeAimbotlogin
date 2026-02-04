@@ -1,14 +1,4 @@
-[
-  {
-    "user": "Sohan",
-    "pass": "Cheats"
-  },
-  {
-    "user": "Sr",
-    "pass": "3971"
-  },
-  {
-    "user": "sohan",
-    "pass": "007"
-  }
-]
+{
+  "user": "admin",
+  "pass": "12"
+}
